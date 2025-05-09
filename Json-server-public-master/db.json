@@ -6,7 +6,7 @@
       "email": "tank1912@gmail.com",
       "phone": "022 0792 7734",
       "address": "9963 Thế Dân Expressway",
-      "avatar": "https://cdn.fakercloud.com/avatars/perretmagali_128.jpg",
+      "avatar": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=2705",
       "password": "123456"
     },
     {
@@ -139,7 +139,7 @@
       "name": "Cà phê Espresso",
       "price": 909,
       "description": "Cà phê espresso đặc biệt, đậm đà với hương vị thơm ngon từ hạt cà phê Arabica.",
-      "image": "http://placeimg.com/400/400",
+      "image": "https://file.hstatic.net/200000886877/article/ca-phe-espresso-1_f71dd8f8b25b4f92889956e66a636be6.jpg",
       "category_id": "216e2000-9a31-4d2c-92d2-1fb8432bcb5f",
       "isHot": false
     },
@@ -148,7 +148,7 @@
       "name": "Cà phê Cappuccino",
       "price": 885,
       "description": "Cà phê cappuccino mịn màng, với lớp bọt sữa nhẹ nhàng và hương vị cà phê đậm đà.",
-      "image": "http://placeimg.com/400/400",
+      "image": "https://cdn.tgdd.vn/2021/11/CookDish/ca-phe-capuchino-la-gi-cach-uong-cafe-capuchino-va-cac-loai-avt-1200x676.jpg",
       "category_id": "216e2000-9a31-4d2c-92d2-1fb8432bcb5f",
       "isHot": true
     },
@@ -157,7 +157,7 @@
       "name": "Trà đào",
       "price": 376,
       "description": "Trà đào thơm mát, nhẹ nhàng với hương vị ngọt ngào của đào tươi.",
-      "image": "http://placeimg.com/400/400",
+      "image": "https://bizweb.dktcdn.net/100/486/168/files/cong-thuc-pha-tra-dao-2.png?v=1697689070151",
       "category_id": "216e2000-9a31-4d2c-92d2-1fb8432bcb5f",
       "isHot": false
     },
